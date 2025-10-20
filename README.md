@@ -16,8 +16,7 @@ I'm a ML software engineer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenakeny&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenakeny&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)
 
 </div>
 
