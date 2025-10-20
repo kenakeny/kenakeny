@@ -1,7 +1,7 @@
 I'm a ML software engineer
 ---
 
-## 🧰 Languages and Tools
+## Languages and Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,7 +12,8 @@ I'm a ML software engineer
 
 ---
 
-## 📊 GitHub Stats
+
+## Most Used Languages
 
 <div align="center">
 
@@ -22,17 +23,7 @@ I'm a ML software engineer
 
 ---
 
-## 🎨 Most Used Languages
-
-<div align="center">
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenakeny&theme=tokyonight)
-
-</div>
-
----
-
-## 🌱 Currently Learning
+##  Currently Learning
 - AI and ML  
 - FastAPI & PostgreSQL    
 ---
