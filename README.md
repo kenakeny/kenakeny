@@ -25,7 +25,9 @@ I'm a ML software engineer
 
 ##  Currently Learning
 - AI and ML  
-- FastAPI & PostgreSQL    
+- FastAPI
+- Unity C#
+- SQL (MSSQL,Postgres)    
 ---
 
 
