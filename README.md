@@ -23,7 +23,6 @@ I'm a ML software engineer
 
 ##  Currently Learning
 - AI and ML  
-- Unity C#
 - SQL (MSSQL,Postgres)    
 ---
 
