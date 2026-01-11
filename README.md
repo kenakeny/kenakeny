@@ -22,8 +22,11 @@ I'm a ML software engineer
 ---
 
 ##  Currently Learning
-- AI and ML  
-- SQL (MSSQL,Postgres)    
+- Data Science
+- LLMs
+- SQL (MSSQL,SQLLite and Postgres)    
+- Automation
+- Cloud Computing
 ---
 
 
