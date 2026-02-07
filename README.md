@@ -27,6 +27,7 @@ I'm a ML software engineer
 - SQL (MSSQL,SQLLite and Postgres)    
 - Automation
 - Cloud Computing
+- Discord Bots
 ---
 
 
