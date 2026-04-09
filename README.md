@@ -23,7 +23,8 @@ I'm a ML software engineer
 
 ##  Currently Learning
 - Data Science
-- LLMs
+- Visual Computing
+- LLMs and RAG
 - SQL (MSSQL,SQLLite and Postgres)    
 - Automation
 - Cloud Computing
