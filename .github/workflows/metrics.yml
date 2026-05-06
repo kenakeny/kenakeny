@@ -1,0 +1,58 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:       # Allow manual runs
+
+jobs:
+  github-metrics:
+    name: Generate Metrics SVGs
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Needed to push SVG files to the repo
+
+    steps:
+
+      # ----------------------------
+      # LINES OF CODE
+      # Tracks total lines of code written across repos
+      # ----------------------------
+      - name: Lines of code
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 100
+          plugin_lines_sections: base, repositories
+
+      # ----------------------------
+      # COMMIT METRICS
+      # Shows commit frequency and contribution graph
+      # ----------------------------
+      - name: Commit activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.commits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity, metadata
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      # ----------------------------
+      # COMBINED OVERVIEW
+      # General profile stats including commits + LOC summary
+      # ----------------------------
+      - name: General metrics overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          plugin_calendar: yes
