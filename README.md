@@ -31,15 +31,7 @@
 
 </div>
 
----
 
-## 🗣️ Most Used Languages
-
-<div align="center">
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenakeny&theme=tokyonight)
-
-</div>
 
 ---
 
