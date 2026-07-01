@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Youssef+%F0%9F%91%8B;AI+Engineer+%7C+CS+Student;Computer+Vision+%26+LLMs;Building+AI+that+ships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Youssef+%F0%9F%91%8B;AI+Engineer+%7C+CS+Student;Building+AI+that+ships" alt="Typing SVG" />
 
 <br/>
 
@@ -12,14 +12,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 youssef = {
-    "role":       "AI Engineer & CS Student @ British University in Egypt",
+    "role":       "AI Engineer @ Sarmad, CS Student @ British University in Egypt",
     "gpa":        "3.9 / 4.0",
-    "focus":      ["Computer Vision", "LLMs", "Production ML Systems"],
-    "building":   "systems that actually work in production, not just notebooks",
+    "focus":      ["Machine Learning", "Applied Artificial Intelligence", "Backend Development"],
+    "building":   "systems that actually matter and used by users.",
 }
 ```
 
@@ -27,7 +27,7 @@ youssef = {
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,6 +43,12 @@ youssef = {
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=github&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6C63FF?style=for-the-badge&logo=databricks&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=github&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,32 +72,34 @@ youssef = {
 
 ---
 
-## 🚀 Projects
+## Projects
 
-| Project                                                                  | Description                                                                                                                                                                                      | Stack                                 |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
-| **[VisionAI](https://github.com/kenakeny/VisionAI)**                     | Computer vision system comparing YOLO detection/segmentation vs VGG classification on 30K+ images — 81% weighted F1-score. Used Class weighting to solve weight balancing issues in the dataset. | PyTorch · YOLOv8 · VGG · Streamlit    |
-| **[NYC Rental Analysis](https://github.com/kenakeny/NYC-rent-listings)** | Analyzed 100K+ Airbnb listings across all 5 NYC boroughs to surface pricing, availability & guest behavior insights                                                                              | Pandas · NumPy · SciPy · Seaborn      |
-| **[Discord RPG System](https://github.com/kenakeny/fote)**               | 90K+ line multiplayer RPG bot serving 300+ users, ~2,000 commands/day — RBAC, gacha, dual-currency economy                                                                                       | Python · discord.py · SQLite · Fly.io |
-
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| **[Zero2Synced](https://github.com/kenakeny/zero2synced)** | Open source agentic pipeline that converts plain English requests to fivetran connectors and destinations | Google ADK, Fivetran MCP, FastAPI,Fly.io|
+| **[LearnGram](https://github.com/kenakeny/learngram)** | RAG-based AI study tool that explains concepts through analogies using a vector knowledge graph | FastAPI, PostgreSQL, pgvector, Ollama, Gemini |
+| **[VisionAI](https://github.com/kenakeny/VisionAI)** | Computer vision system comparing YOLO detection/segmentation vs VGG classification on 30K+ images with 81% weighted F1-score. Used class weighting to solve dataset imbalance. | PyTorch, YOLOv, VGG11, FastAPI |
+| **[NYC Rental Analysis](https://github.com/kenakeny/NYC-rent-listings)** | Analyzed 100K+ Airbnb listings across all 5 NYC boroughs to surface pricing, availability & guest behavior insights. Scraped craigslist listings to compare between long-term and short-term markets. | Pandas, NumPy, SciPy, Seaborn, BeautifulSoup |
+| **[Discord RPG System](https://github.com/kenakeny/fote)** | A multiplayer RPG COTE inspired bot serving 300+ users, ~2,000 commands/day with RBAC, gacha, dual currency economy. | Python, discord.py, SQLite, Fly.io |
 ---
 
-## 🌱 Currently Learning
+
+## Currently Learning
 
 <div align="center">
 
-| | Area | Topics |
-|:---:|------|--------|
-| 🤖 | AI / ML | Visual Computing, LLMs, RAG pipelines, Data Science |
-| 🗄️ | Databases | MSSQL, PostgreSQL, SQLite |
-| ☁️ | Infrastructure | Cloud Computing, Automation |
-| 🔧 | Bots | Discord Bots |
+| Area | Topics |
+|------|--------|
+| AI / ML | Agentic Systems, RAG Pipelines, Computer Vision, Data Science |
+| Databases | PostgreSQL, pgvector, MSSQL, SQLite |
+| Infrastructure | Cloud Computing, Automation |
+| Tools | Linux, Git, Docker, Discord Bots |
 
 </div>
 
 ---
 
-## 📊 Stats & Activity
+## Stats
 
 <div align="center">
 
@@ -109,10 +117,8 @@ youssef = {
 
 <div align="center">
 
-### 🤝 Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-kenawy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefkenawy05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenakeny)
-
 </div>
