@@ -99,22 +99,6 @@ youssef = {
 
 ---
 
-## Stats
-
-<div align="center">
-
-![Metrics Overview](./metrics.base.svg)
-
-<br/>
-
-| Lines of Code | Commit Activity |
-|:---:|:---:|
-| ![Lines](./metrics.plugin.lines.svg) | ![Commits](./metrics.plugin.commits.svg) |
-
-</div>
-
----
-
 <div align="center">
 
 ### Connect
