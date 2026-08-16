@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Youssef+%F0%9F%91%8B;AI+Engineer+%7C+CS+Student;Building+AI+that+ships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Youssef+%F0%9F%91%8B;AI+Engineer+%7C+CS+Student" alt="Typing SVG" />
 
 <br/>
 
@@ -16,10 +16,9 @@
 
 ```python
 youssef = {
-    "role":       "AI Engineer @ Sarmad, CS Student @ British University in Egypt",
-    "gpa":        "3.9 / 4.0",
-    "focus":      ["Machine Learning", "Applied Artificial Intelligence", "Backend Development"],
-    "building":   "systems that actually matter and used by users.",
+    "me":            "AI Engineer, CS Student @ British University in Egypt",
+    "gpa":           "3.89/4.0",
+    "interested_in": ["AI/ML", "SE", "Game Dev"]
 }
 ```
 
@@ -76,11 +75,11 @@ youssef = {
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
-| **[Zero2Synced](https://github.com/kenakeny/zero2synced)** | Open source agentic pipeline that converts plain English requests to fivetran connectors and destinations | Google ADK, Fivetran MCP, FastAPI,Fly.io|
+| **[Zero2Synced](https://github.com/kenakeny/zero2synced)** | Open source agentic pipeline that converts plain English requests to fivetran connectors and destinations; built for google x  devpost hackathon | Google ADK, Fivetran MCP, FastAPI,Fly.io|
 | **[LearnGram](https://github.com/kenakeny/learngram)** | RAG-based AI study tool that explains concepts through analogies using a vector knowledge graph | FastAPI, PostgreSQL, pgvector, Ollama, Gemini |
-| **[VisionAI](https://github.com/kenakeny/VisionAI)** | Computer vision system comparing YOLO detection/segmentation vs VGG classification on 30K+ images with 81% weighted F1-score. Used class weighting to solve dataset imbalance. | PyTorch, YOLOv, VGG11, FastAPI |
+| **[VisionAI](https://github.com/kenakeny/VisionAI)** | Computer vision system comparing YOLO detection/segmentation vs VGG classification on 30K+ images with 81% weighted F1-score. Used class weighting to solve dataset imbalance. | PyTorch, YOLOv8, VGG11, FastAPI |
 | **[NYC Rental Analysis](https://github.com/kenakeny/NYC-rent-listings)** | Analyzed 100K+ Airbnb listings across all 5 NYC boroughs to surface pricing, availability & guest behavior insights. Scraped craigslist listings to compare between long-term and short-term markets. | Pandas, NumPy, SciPy, Seaborn, BeautifulSoup |
-| **[Discord RPG System](https://github.com/kenakeny/fote)** | A multiplayer RPG COTE inspired bot serving 300+ users, ~2,000 commands/day with RBAC, gacha, dual currency economy. | Python, discord.py, SQLite, Fly.io |
+| **[Discord RPG System](https://github.com/kenakeny/fote)** | A multiplayer RPG COTE inspired bot that served 300+ users, ~2,000 commands/day with RBAC, gacha, dual currency economy. | Python, discord.py, SQLite, Fly.io |
 ---
 
 
@@ -92,8 +91,19 @@ youssef = {
 |------|--------|
 | AI / ML | Agentic Systems, RAG Pipelines, Computer Vision, Data Science |
 | Databases | PostgreSQL, pgvector, MSSQL, SQLite |
-| Infrastructure | Cloud Computing, Automation |
-| Tools | Linux, Git, Docker, Discord Bots |
+| Infrastructure | Cloud Computing, Kubernetes |
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Activity
+
+<img src="./metrics.base.svg" alt="GitHub metrics" width="100%" />
+<img src="./metrics.plugin.commits.svg" alt="Commit activity" width="100%" />
+<img src="./metrics.plugin.lines.svg" alt="Lines changed" width="49%" />
 
 </div>
 
