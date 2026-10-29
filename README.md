@@ -89,9 +89,8 @@ youssef = {
 
 | Area | Topics |
 |------|--------|
-| AI / ML | Agentic Systems, RAG Pipelines, Computer Vision, Data Science |
-| Databases | PostgreSQL, pgvector, MSSQL, SQLite |
-| Infrastructure | Cloud Computing, Kubernetes |
+| AI / ML |   Advanced Artificial Neural Networks, Data Science, Time-series data handling |
+| Cybersecurity | Code vulnerability |
 
 </div>
 
